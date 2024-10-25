@@ -1,8 +1,6 @@
 ## Всем привет 👋 Меня зовут Влад.
 Я фронтенд разработчик.
 
-## Languages and Tools:
-
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nuxt,vue,vite,vitest,jest,vuetify,scss,tailwind&theme=light)](https://skillicons.dev)
 
